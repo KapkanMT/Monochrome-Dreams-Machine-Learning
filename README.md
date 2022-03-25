@@ -1,5 +1,5 @@
 # Monochrome-Dreams-Machine-Learning
-A project for the Kaggle Machine Learning competition held within our university.
+A project for the Kaggle Machine Learning competition held within our university .
 
 How to setup:
 
